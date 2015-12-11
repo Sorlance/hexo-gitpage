@@ -12,6 +12,11 @@ hexo d #部署 # 可与hexo g合并为 hexo d -g
 Node和Git都安装好后，可执行如下命令安装hexo：
 
     npm install -g hexo
+    
+    # 根据情况可能会用到以下两个命令
+    
+    npm install hexo --save
+    npm install hexo-server --save
 
 初始化
 
